@@ -11,3 +11,5 @@ print(c)
 print(c.dtypes)
 
 print(s.decode('utf-8'))
+
+#eu vai apadar tudo - Tatá#
